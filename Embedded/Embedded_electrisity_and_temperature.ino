@@ -26,10 +26,10 @@
 #include <NTPtimeESP.h>
 
 
-#define FIREBASE_HOST "test-de47e.firebaseio.com"
-#define FIREBASE_AUTH "G4RM5PNSqf0R89dMvoRf7HJLLZx538dvZ97jYp4r"
-#define WIFI_SSID "AstaJake"
-#define WIFI_PASSWORD "vgyvgy789"
+#define FIREBASE_HOST ""
+#define FIREBASE_AUTH ""
+#define WIFI_SSID ""
+#define WIFI_PASSWORD ""
 // Set these to run example.
 // Data wire is plugged into port 2 on the Arduino
 #define ONE_WIRE_BUS 5
